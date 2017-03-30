@@ -17,7 +17,8 @@ audiopath = file:///Users/ABC/Desktop/1234.mp3
 ```
 # chrome 驱动详情
 chrome 与 chromedriver 版本映射表  （表格转载自http://blog.csdn.net/huilan_same/article/details/51896672）：
-chromedriver版本	支持的Chrome版本
+```
+chromedriver版本	    支持的Chrome版本
 v2.27	            v54-56
 v2.26	            v53-55
 v2.25	            v53-55
@@ -42,3 +43,4 @@ v2.7	            v30-33
 v2.6	            v29-32
 v2.5	            v29-32
 v2.4	            v29-32
+```
