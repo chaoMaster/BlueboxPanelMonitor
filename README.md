@@ -1,6 +1,5 @@
 # BlueboxPanelMonitor
-使用前请下载 chrome 驱动，驱动详情：http://blog.csdn.net/chaomaster/article/details/52963265 
-
+使用前请下载 chrome 驱动，驱动详情见下方
 使用脚本前必须创建配置文件（文件名 config.ini）,且需要将配置文件和脚本放在同一目录。必须使用 config.ini 作为文件名 
 
 脚本使用前请确定已安装 python 2.7 以及 slenium 框架, 故不再做二进制版本支持
@@ -19,6 +18,7 @@ audiopath = file:///Users/ABC/Desktop/1234.mp3
 chrome 与 chromedriver 版本映射表  （表格转载自http://blog.csdn.net/huilan_same/article/details/51896672）：
 ```
 chromedriver版本	    支持的Chrome版本
+v2.28	            v55-57
 v2.27	            v54-56
 v2.26	            v53-55
 v2.25	            v53-55
