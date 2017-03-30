@@ -44,3 +44,4 @@ v2.6	            v29-32
 v2.5	            v29-32
 v2.4	            v29-32
 ```
+driver 下载地址：http://chromedriver.storage.googleapis.com/index.html
